@@ -19,4 +19,4 @@ These labs are a part of a series called CompTIA Security+ Labs under 101Labs. Y
 
 ## Analysis of Tools (Coming Soon)
 
-In this section, I will be attempting to provide an in-depth analysis of my research into the diffrerent tools available in Kali Linux.
+In this section, I will be attempting to provide an in-depth analysis of my research into the different tools available in Kali Linux.
