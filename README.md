@@ -6,7 +6,7 @@ In this series, I will be sharing the labs I practice using the tools that are a
 
 Before we begin honing our skills, we first need to install Kali Linux on a Virtual Machine because it isolates it from your host system preventing potential security risks.
 
-<a href="https://www.google.com">Kali Install Guide</a>
+<a href="https://medium.com/@sai.kantamuneni/install-kali-linux-in-oracle-virtualbox-8af03c228ddd">Kali Install Guide</a>
 
 ## Individual Labs
 
