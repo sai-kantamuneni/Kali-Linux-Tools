@@ -14,7 +14,7 @@ These labs are a part of a series called CompTIA Security+ Labs under 101Labs. Y
 
 |No. |Lab           |Medium               |
 |----|--------------|---------------------|
-|1.  |Credential Harvesting using Site Cloning|<a href="https://medium.com/@sai.kantamuneni/db9b54dbdb37">101Labs Write-ups #1</a>|
+|1.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/1.%20Credential%20Harvesting%20Using%20Site%20Cloning">Credential Harvesting using Site Cloning|<a href="https://medium.com/@sai.kantamuneni/db9b54dbdb37">101Labs Write-ups #1</a>|
 
 
 ## Analysis of Tools (Coming Soon)
