@@ -12,9 +12,9 @@ Before we begin honing our skills, we first need to install Kali Linux on a Virt
 
 These labs are a part of a series called CompTIA Security+ Labs under 101Labs. You can access them here - https://www.101labs.net/comptia-security/
 
-|No. |Lab           |Github            |Medium               |
-|----|--------------|------------------|---------------------|
-|1.  |Credential Harvesting using Site Cloning|<a href="https://google.com">Detection Lab</a>|<a href="https://google.com">Detection Lab</a>|
+|No. |Lab           |Medium               |
+|----|--------------|---------------------|
+|1.  |Credential Harvesting using Site Cloning|<a href="https://www.101labs.net/comptia-security/lab-1-credential-harvesting-using-site-cloning/">101Labs Write-ups #1</a>|
 
 
 ## Analysis of Tools (Coming Soon)
