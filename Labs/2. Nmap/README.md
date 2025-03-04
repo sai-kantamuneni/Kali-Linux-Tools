@@ -20,3 +20,52 @@ In today's lab we will be scanning the following site: <a href="http://scanme.nm
 This website has been developed by Nmap for the purpose of scanning.
 
 **NOTE: Never scan any site, system, or network without prior permission from the owner.**
+
+## Task 1
+* Nmap comes pre-installed in Kali Linux.
+* Just open a terminal and type
+`nmap scanme.nmap.org`
+* This will initiate a scan of the target and will attempt to determine which ports are open and what services are open on these ports:
+
+<img src="Assets/101-10.png">
+
+* As you can see from the result, there are 4 ports open, and there are different services running on each port.
+* The scan we performed is a very basic scan and will only scan the top 1000 ports for basic information.
+
+## Task 2
+* Let us now perform an advanced scan.
+* In this scan we will determine,
+  1. The versions of services running on each port.
+  2. The operating system of the webserver running the target site.
+* Enter the following command into the terminal
+`nmap -v -sT -sV -O scanme.nmap.org`
+* Let us try to understand what is happening here:
+  1. **"-v"** - Stands for verbose which provides detailed information during the scan.
+  2. **"-sT"** - Performs a TCP connect scan, by establishing a full connection with each target port.
+  3. **"-sV"** - Enables version scanning, which determines service and version information of ports.
+  4. **"-O"** - OS Detection, identifying the operating system of the target.
+* If the command asks for root privileges, type the following command:
+`sudo nmap -v -sT -sV -O scanme.nmap.org`
+
+<img src="Assets/101-11.png">
+
+* As you can see here, all of the open ports display the exact versions of software running.
+
+<img src="Assets/101-12.png">
+
+* In this section, you can see the OS of the target and uptime guess shows us last known verified time of the OS.
+
+## Another Method for Task 2
+* Another command to figure out the versions and the OS is
+`nmap -A scanme.nmap.org`
+* This command stands for **All** which combines the **"-sV"** and **"-O"** flags.
+* Additionally it also gives us the traceroute to this website.
+
+<img src="Assets/101-13.png">
+
+<img src="Assets/101-14.png">
+
+<img src="Assets/101-15.png">
+
+## Extra scans
+Visit the following website to see the different scans you can run against targets: <a href="https://nmap.org/book/port-scanning-options.html">Different Nmap scans</a>
