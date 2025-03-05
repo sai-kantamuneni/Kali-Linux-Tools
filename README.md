@@ -16,7 +16,7 @@ These labs are a part of a series called CompTIA Security+ Labs under 101Labs. Y
 |----|--------------|---------------------|
 |1.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/1.%20Credential%20Harvesting%20Using%20Site%20Cloning">Credential Harvesting using Site Cloning|<a href="https://medium.com/@sai.kantamuneni/db9b54dbdb37">101Labs Write-ups #1</a>|
 |2.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/2.%20Nmap">NMAP</a>|<a href="https://medium.com/@sai.kantamuneni/94c012e15599">101Labs Write-ups #2</a>|
-
+|2.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/3.%20RECON-NG">RECON-NG</a>|<a href="https://medium.com/@sai.kantamuneni/d7ed57086cad">101Labs Write-ups #3</a>|
 ## Analysis of Tools (Coming Soon)
 
 In this section, I will be attempting to provide an in-depth analysis of my research into the different tools available in Kali Linux.
