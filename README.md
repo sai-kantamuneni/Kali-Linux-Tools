@@ -18,6 +18,7 @@ These labs are a part of a series called CompTIA Security+ Labs under 101Labs. Y
 |2.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/2.%20Nmap">NMAP</a>|<a href="https://medium.com/@sai.kantamuneni/94c012e15599">101Labs Write-ups #2</a>|
 |3.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/3.%20RECON-NG">RECON-NG</a>|<a href="https://medium.com/@sai.kantamuneni/d7ed57086cad">101Labs Write-ups #3</a>|
 |4.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/4.%20Dictionary%20Attacks%20using%20Hydra">Dictionary Attack Using Hydra</a>|<a href="https://medium.com/@sai.kantamuneni/6b03da462168">101Labs Write-ups #4</a>|
+|5.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/5.%20Cross-Site%20Scripting%20Attack">Cross-Site Scripting Attack</a>||
 
 ## Analysis of Tools (Coming Soon)
 
