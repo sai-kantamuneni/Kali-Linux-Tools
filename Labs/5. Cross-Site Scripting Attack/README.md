@@ -13,7 +13,7 @@ You can also access this lab here: <a href="https://www.101labs.net/comptia-secu
 
 ## Website
 * There are numerous websites that have been setup for the purpose of practicing attacks like XSS.
-* Today, we will be using this website: XSS-Game
+* Today, we will be using this website: <a href="https://xss-game.appspot.com/">XSS-Game</a>
 
 <img src="Assets/101-35.png">
 
