@@ -20,7 +20,7 @@ These labs are a part of a series called CompTIA Security+ Labs under 101Labs. Y
 |4.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/4.%20Dictionary%20Attacks%20using%20Hydra">Dictionary Attack Using Hydra</a>|<a href="https://medium.com/@sai.kantamuneni/6b03da462168">101Labs Write-ups #4</a>|
 |5.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/5.%20Cross-Site%20Scripting%20Attack">Cross-Site Scripting Attack</a>|<a href="https://medium.com/@sai.kantamuneni/791739e58b56">101Labs Write-ups #5</a>|
 |6.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/6.%20Intercept%20Client-Side%20Requests">Intercept Client-Side Requests</a>|<a href="https://medium.com/@sai.kantamuneni/101labs-write-ups-6-intercept-client-side-requests-ff9972abc5b4">101Labs Write-ups #6</a>|
-|7.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/7.%20Information%20Gathering%20Using%20theHarvester">Information Gathering Using theHarvester</a>|<a href="">101Labs Write-ups #7</a>|
+|7.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/7.%20Information%20Gathering%20Using%20theHarvester">Information Gathering Using theHarvester</a>|<a href="https://medium.com/@sai.kantamuneni/101labs-write-ups-7-information-gathering-using-theharvester-f5c393ee4d14">101Labs Write-ups #7</a>|
 
 ## Analysis of Tools (Coming Soon)
 
