@@ -11,4 +11,5 @@ This folder contains the write-ups for the 101Labs Security+ labs
 |5.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/5.%20Cross-Site%20Scripting%20Attack">Cross-Site Scripting Attack</a>|
 |6.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/6.%20Intercept%20Client-Side%20Requests">Intercept Client-Side Requests</a>|
 |7.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/7.%20Information%20Gathering%20Using%20theHarvester">Information Gathering Using theHarvester</a>|
+|8.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/8.%20cURL">cURL</a>|
 
