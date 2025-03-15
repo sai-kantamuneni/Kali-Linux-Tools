@@ -23,7 +23,7 @@ These labs are a part of a series called CompTIA Security+ Labs under 101Labs. Y
 |7.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/7.%20Information%20Gathering%20Using%20theHarvester">Information Gathering Using theHarvester</a>|<a href="https://medium.com/@sai.kantamuneni/101labs-write-ups-7-information-gathering-using-theharvester-f5c393ee4d14">101Labs Write-ups #7</a>|
 |8.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/8.%20cURL">cURL</a>|<a href="https://medium.com/@sai.kantamuneni/101labs-write-ups-8-curl-67e0f68288bd">101Labs Write-ups #8</a>|
 |9.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/9.%20traceroute">Traceroute</a>|<a href="https://medium.com/@sai.kantamuneni/101labs-write-ups-9-traceroute-f775f7eb0ded">101Labs Write-ups #9</a>|
-|10.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/10.%20Ping">Ping</a>|<a href=""></a>|
+|10.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/10.%20Ping">Ping</a>|<a href="https://medium.com/@sai.kantamuneni/101labs-write-ups-10-ping-6c9df25d1f98">101Labs Write-ups #10</a>|
 
 ## Analysis of Tools (Coming Soon)
 
