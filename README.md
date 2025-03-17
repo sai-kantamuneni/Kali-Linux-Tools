@@ -24,6 +24,7 @@ These labs are a part of a series called CompTIA Security+ Labs under 101Labs. Y
 |8.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/8.%20cURL">cURL</a>|<a href="https://medium.com/@sai.kantamuneni/101labs-write-ups-8-curl-67e0f68288bd">101Labs Write-ups #8</a>|
 |9.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/9.%20traceroute">Traceroute</a>|<a href="https://medium.com/@sai.kantamuneni/101labs-write-ups-9-traceroute-f775f7eb0ded">101Labs Write-ups #9</a>|
 |10.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/10.%20Ping">Ping</a>|<a href="https://medium.com/@sai.kantamuneni/101labs-write-ups-10-ping-6c9df25d1f98">101Labs Write-ups #10</a>|
+|11.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/11.%20Nslookup">Ping</a>|<a href=""></a>|
 
 ## Analysis of Tools (Coming Soon)
 
