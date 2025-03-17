@@ -14,4 +14,5 @@ This folder contains the write-ups for the 101Labs Security+ labs
 |8.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/8.%20cURL">cURL</a>|
 |9.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/9.%20traceroute">Traceroute</a>|
 |10.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/10.%20Ping">Ping</a>|
+|11.  |<a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main/Labs/11.%20Nslookup">Nslookup</a>|
 
